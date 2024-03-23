@@ -1,6 +1,6 @@
 # ×
 
-[![Witches](http://img.youtube.com/vi/v7eiX-94arw/0.jpg)](https://www.youtube.com/watch?v=v7eiX-94arw)
+[![×](http://img.youtube.com/vi/v7eiX-94arw/0.jpg)](https://www.youtube.com/watch?v=v7eiX-94arw)
 
 ## 説明
 モンスターをパックリしてください。<br>
